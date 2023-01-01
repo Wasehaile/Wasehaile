@@ -2,13 +2,13 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>
 <h1>Hey there, Welcome to my profile!</h1>
 <div id='social-badges'>
-<a href='https://dribbble.com/wasehaile'>
+<a href='https://dribbble.com/wasehaile' target="_blank" >
 <img src='https://img.shields.io/badge/-Dribbble-pink?logo=Dribbble&logoColor=white&style=for-the-badge'/>
 </a>
-<a href='https://www.linkedin.com/in/wase-haile-223940249/'>
+<a href='https://www.linkedin.com/in/wase-haile-223940249/' target="_blank" >
 <img src='https://img.shields.io/badge/-Linkedin-blue?logo=linkedin&logoColor=white&style=for-the-badge'/>
 </a>
-<a href='https://www.instagram.com/wasehaille/'>
+<a href='https://www.instagram.com/wasehaille/' target="_blank" >
 <img src='https://img.shields.io/badge/-Instagram-red?logo=Instagram&logoColor=white&style=for-the-badge'/>
 </a>
 </div>
@@ -22,7 +22,7 @@
 -:black_nib:Graphics Designer<br/>
 -:black_nib:UI/UX Designer<br/>
 </div><br/>
-:hammer_and_wrench: Languages and Tools :
+<h2>:hammer_and_wrench:Languages and Tools</h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -33,7 +33,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
-:fire:My Status<br/>
+  <h2>:fire:My Status</h2>
 <img src='https://github-readme-streak-stats.herokuapp.com/?user=Wasehaile&theme=dark'/>
 <div>
 <img src='https://github-readme-stats.vercel.app/api?username=Wasehaile&show_icons=true&hide=prs,issues&theme=dark'/>
