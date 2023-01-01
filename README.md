@@ -27,11 +27,11 @@ height='250px'/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
-</div>
-
-
-
-
-
+:fire:My Status<br/><br/>
+<img src='https://github-readme-streak-stats.herokuapp.com/?user=Wasehaile&theme=dark'/>
+<div>
 <img src='https://github-readme-stats.vercel.app/api?username=Wasehaile&show_icons=true&hide=prs,issues&theme=dark'/>
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Wasehaile&layout=compact&theme=dark'/>
+</div>
+</div>
 </div>
