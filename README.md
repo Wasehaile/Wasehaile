@@ -1,5 +1,5 @@
 <div align='center'>
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>
+<img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" width="450px"/>
 <h1>Hey there, Welcome to my profile!</h1>
 <div id='social-badges'>
 <a href='https://dribbble.com/wasehaile' target="blank" >
