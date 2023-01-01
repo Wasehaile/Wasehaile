@@ -1,10 +1,16 @@
 <div align='center'>
-<img id='img1' src='https://img.freepik.com/free-vector/code-typing-concept-illustration_114360-3581.jpg?w=740&t=st=1672565065~exp=1672565665~hmac=3b236d6c08c9fbdc8a45d844c0d26cd1cae609d936d52192e3b4859ceae78196'
-style="border-radius:550px;width:100%;height:auto"/>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>
+<h1>Hey there, Welcome to my profile!</h1>
 <div id='social-badges'>
+<a href='https://dribbble.com/wasehaile'>
 <img src='https://img.shields.io/badge/-Dribbble-pink?logo=Dribbble&logoColor=white&style=for-the-badge'/>
+</a>
+<a href='https://www.linkedin.com/in/wase-haile-223940249/'>
 <img src='https://img.shields.io/badge/-Linkedin-blue?logo=linkedin&logoColor=white&style=for-the-badge'/>
+</a>
+<a href='https://www.instagram.com/wasehaille/'>
 <img src='https://img.shields.io/badge/-Instagram-red?logo=Instagram&logoColor=white&style=for-the-badge'/>
+</a>
 </div>
 <img src='https://komarev.com/ghpvc/?username=Wasehaile&style=for-the-badge'/><br/>
 <div align='start'>
