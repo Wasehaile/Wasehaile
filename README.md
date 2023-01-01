@@ -1,8 +1,8 @@
 <div align='center'>
-<img src='https://img.freepik.com/free-vector/web-development-programmer-engineering-coding-website-augmented-reality-interface-screens-developer-project-engineer-programming-software-application-design-cartoon-illustration_107791-3863.jpg?w=740&t=st=1672560802~exp=1672561402~hmac=4111805202582902c747801e5e1cc8351d6602636d121ce7d17a80a404db82ea'
-height='250px'/>
+<img id='img1' src='https://img.freepik.com/free-vector/code-typing-concept-illustration_114360-3581.jpg?w=740&t=st=1672565065~exp=1672565665~hmac=3b236d6c08c9fbdc8a45d844c0d26cd1cae609d936d52192e3b4859ceae78196'
+style="border-radius:550px;width:100%;height:auto"/>
 <div id='social-badges'>
-<img src='https://img.shields.io/badge/-Telegram-blue?logo=Telegram&logoColor=white&style=for-the-badge'/>
+<img src='https://img.shields.io/badge/-Dribbble-pink?logo=Dribbble&logoColor=white&style=for-the-badge'/>
 <img src='https://img.shields.io/badge/-Linkedin-blue?logo=linkedin&logoColor=white&style=for-the-badge'/>
 <img src='https://img.shields.io/badge/-Instagram-red?logo=Instagram&logoColor=white&style=for-the-badge'/>
 </div>
