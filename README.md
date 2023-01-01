@@ -2,13 +2,13 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>
 <h1>Hey there, Welcome to my profile!</h1>
 <div id='social-badges'>
-<a href='https://dribbble.com/wasehaile' target="_blank" >
+<a href='https://dribbble.com/wasehaile' target="blank" >
 <img src='https://img.shields.io/badge/-Dribbble-pink?logo=Dribbble&logoColor=white&style=for-the-badge'/>
 </a>
-<a href='https://www.linkedin.com/in/wase-haile-223940249/' target="_blank" >
+<a href='https://www.linkedin.com/in/wase-haile-223940249/' target="blank" >
 <img src='https://img.shields.io/badge/-Linkedin-blue?logo=linkedin&logoColor=white&style=for-the-badge'/>
 </a>
-<a href='https://www.instagram.com/wasehaille/' target="_blank" >
+<a href='https://www.instagram.com/wasehaille/' target="blank" >
 <img src='https://img.shields.io/badge/-Instagram-red?logo=Instagram&logoColor=white&style=for-the-badge'/>
 </a>
 </div>
@@ -17,12 +17,12 @@
 <h1>About</h1>
 <p>Hello i am Wasyhun, i am a front-end developer from Ethiopia<img src='https://hotemoji.com/images/dl/p/flag-of-ethiopia-emoji-by-google.png' width='20px' align='center'/>
 <div align='start'>
--:computer:Web Developer <br/>
--:computer:Application Developer <br/>
--:black_nib:Graphics Designer<br/>
--:black_nib:UI/UX Designer<br/>
-</div><br/>
-<h2>:hammer_and_wrench:Languages and Tools</h2>
+-:computer:I work as a front-end developer for web applications <br/>
+-:computer:I work as a front-end developer for mobile and desktop applications <br/>
+-:black_nib:Besides the software development i also work as a graphic designer<br/>
+-:black_nib:Designing User interfaces and User experience for different applications<br/>
+</div>
+<h2>:hammer_and_wrench:Languages and Tools I Use</h2>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="30" height="30"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="30" height="30"/>&nbsp;
